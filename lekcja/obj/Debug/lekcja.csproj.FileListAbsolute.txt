@@ -1,0 +1,15 @@
+C:\Users\wgapinski\source\repos\lekcja\bin\Debug\lekcja.exe.config
+C:\Users\wgapinski\source\repos\lekcja\bin\Debug\lekcja.exe
+C:\Users\wgapinski\source\repos\lekcja\bin\Debug\lekcja.pdb
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.csproj.AssemblyReference.cache
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\MainWindow.g.cs
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\App.g.cs
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja_MarkupCompile.cache
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja_MarkupCompile.lref
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\MainWindow.baml
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.g.resources
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.Properties.Resources.resources
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.csproj.GenerateResource.cache
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.csproj.CoreCompileInputs.cache
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.exe
+C:\Users\wgapinski\source\repos\lekcja\obj\Debug\lekcja.pdb
